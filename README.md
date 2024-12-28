@@ -1,2 +1,3 @@
-# data-analysis-dashboard-for-bike-sales
-I have developed a comprehensive project in Excel, creating multiple dashboard and tables to analyze the sales of bike for different region. This process involved several stages i.e data processing, data exploration, data cleaning and data visualization. 
+# bike sales Dashboard of various region. (Interactive dashboard creation using MS Excel)
+## Project Objective 
+We want to see the details of bike purchased by individuals depending on various factors like place, occupation, gender and maternal Status.
